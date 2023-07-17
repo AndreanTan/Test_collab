@@ -4,3 +4,4 @@ Nama Peserta Belajar Git
 2. carakka wijaya
 3. Arya Bintang Ramadhan
 4. Aryo
+5. Fernando Savero Suhendra
